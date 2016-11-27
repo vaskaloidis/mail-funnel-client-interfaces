@@ -1,0 +1,2 @@
+module FlowchartJsHelper
+end
